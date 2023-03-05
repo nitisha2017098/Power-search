@@ -29,8 +29,9 @@ can choose different parameters for filteration other than color.
 to another and see differences.
 
 ```
-
-
+```
+Note: Please note that you can’t filter by color on iPad or Android tablets
+```
 
 
 
