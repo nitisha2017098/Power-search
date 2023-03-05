@@ -10,6 +10,7 @@ The idea of search key method to improve skills what's possible to find.
 ```
 Just search for [Google Senegal], [Google Costa Rica] or whatever country you want to explore.
 ```
+
 ## Filter image results by it's color
 Apply the strategy of color filtering to find information quickly.
 
@@ -33,6 +34,10 @@ to another and see differences.
 Note: Please note that you can’t filter by color on iPad or Android tablets
 ```
 
+## How search works
+1. Recognize ads on a search engine results page.
+2. Describe how the order of results on a page is determined.
+3. Learn some of the factors that go into determining a page's rank order.
 
 
 
