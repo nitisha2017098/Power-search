@@ -39,5 +39,23 @@ Note: Please note that you can’t filter by color on iPad or Android tablets
 2. Describe how the order of results on a page is determined.
 3. Learn some of the factors that go into determining a page's rank order.
 
+```
+1. When you do a google search you are not actually searching the web
+you are searching google's index of the web or at least as much of it we can find.
+2. We do this with software programs called "spiders"
 
+3. Spiders start by fetching a few web pages then they follow the links on those 
+web pages and fetch the pages they point to and follow all the links on those web 
+pages and fetch the pages they link to and so on until we have indexed a preety 
+big chunk of the web, many billions of pages stored across thousands of machines.
 
+```
+
+**NOTE**
++ Google looks for the word you typed in, but sometimes also looks for synonyms or 
+related terms. Any words appearing in boldface type in your search results are 
+terms Google associates with your search terms. For example, if you search for 
+[kittens] you might see the word cats in boldface in your results.
++ Ads appear in response to some queries and are always labeled ads.
++ Aside from ads, website owners cannot pay to influence the placement of their 
+website in the search results.
