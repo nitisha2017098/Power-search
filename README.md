@@ -25,7 +25,8 @@ whatever color you want in fossils
 3. search "Tesla" here see what's you get by searching and then in tools you 
 can choose different parameters for filteration other than color.
 
-+ Modifying the search slightly, Search "Tesla coil" change color from one to another and see differences.
+4. Modifying the search slightly, Search "Tesla coil" change color from one 
+to another and see differences.
 
 ```
 
