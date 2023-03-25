@@ -98,8 +98,22 @@ Apple computers: press the command and F keys at the same time.
 Android tablets: in a browser window, touch the menu button in the top right of the screen, then select "find on page".
 Safari on iPad tablets: click the cursor in the search box in the upper right corner of the screen. Directly above the keyboard, a "find on page" box will open.
 ```
+## INTERPRETING RESULTS
+**2.1**
+### Suggestions, search-as-you-type, knowlege panels
 
+### Thinking more deeply about your search
++ Recognize when search results are offering information that suggests a better/additional search.
++ Use 'define' to identify the meaning of words.
++ Use dictionary mode to define words that do not appear in traditional dictionaries.
 
+### Undertsnads options for different media.
++ Use image search when it appears in search results, and use related image search to refine results.
++ Refine results by using different media types like videos and news.
+
+### Reading the search engine result page(SERP)
+
+### 
 
 
 
