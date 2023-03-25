@@ -74,6 +74,35 @@ website in the search results.
 + Use the kinds of word you would like to see in your results
 + Determine the most important words in your search as well as potential synonyms.
 
+## Word order matters
++ Every word mmatters in your query
++ Even the word order can make a difference
+
+**SEE the results for "WHO", "THE WHO", "A WHO" AND for "blue sky and sky blue"**
+
++ Capitilisation does not matter
++ Punctuation does not matter usually but we can some of symbol and google can search for emoji too.
++ Punctuation that matters: $, #, and + (when used as C++, Google+)
++ Punctuation that Google ignores: ¶, £, €, ©, ®, ÷, §, %, (), @, ?, !
+
+## Finding text on web page
+
++ Use Control-F to quickly find text on a page.
+
+**Why you need to know this**
++ Really speed up search
++ To find out if the word exist or not the web page
+```
+Windows computers: press the control and F keys at the same time.
+Apple computers: press the command and F keys at the same time.
+Android tablets: in a browser window, touch the menu button in the top right of the screen, then select "find on page".
+Safari on iPad tablets: click the cursor in the search box in the upper right corner of the screen. Directly above the keyboard, a "find on page" box will open.
+```
+
+
+
+
+
 
 
 
