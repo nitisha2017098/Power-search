@@ -59,3 +59,21 @@ terms Google associates with your search terms. For example, if you search for
 + Ads appear in response to some queries and are always labeled ads.
 + Aside from ads, website owners cannot pay to influence the placement of their 
 website in the search results.
+
+## The art of keyword
++ how to choose good keyword
+1. Think about what you are trying to find
+2. Choose words that you think will appear on the page
+3. Put yourself in the mindset of the author of those words
+4. query keywords
+
+**Activity**
++ Compare the effect of different query and see the results of using proper keyword
+ 
+**Note** 
++ Use the kinds of word you would like to see in your results
++ Determine the most important words in your search as well as potential synonyms.
+
+
+
+
